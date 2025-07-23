@@ -16,7 +16,6 @@
     <h2>DRI教育</h2>
     <p>AIやIoT、情報セキュリティといった幅広い情報分野について学びつつ、デザイン思考やリスクマネジメント、インフォマティクスを重視している。それによって技術力だけでなく、課題解決能力をも身に着けた情報技術者を育成しようとしているところが魅力である。</p>
  </body>  
-</html>
 body {
   font-family: "Helvetica", "Arial", sans-serif;
   background-color: #f7f9fc;
@@ -53,3 +52,4 @@ p {
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.05);
   margin-bottom: 20px;
 }
+</html>
