@@ -17,3 +17,39 @@
     <p>AIやIoT、情報セキュリティといった幅広い情報分野について学びつつ、デザイン思考やリスクマネジメント、インフォマティクスを重視している。それによって技術力だけでなく、課題解決能力をも身に着けた情報技術者を育成しようとしているところが魅力である。</p>
  </body>  
 </html>
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  background-color: #f7f9fc;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #005f99;
+  margin-top: 40px;
+  font-size: 2.5em;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+}
+
+h2 {
+  color: #0077cc;
+  margin-top: 30px;
+  font-size: 1.5em;
+  border-left: 5px solid #0077cc;
+  padding-left: 10px;
+  background-color: #e6f2ff;
+}
+
+p {
+  font-size: 1.1em;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.05);
+  margin-bottom: 20px;
+}
