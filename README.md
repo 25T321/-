@@ -2,8 +2,9 @@
  <head>
        <meta charset="UTF-8">
        <title>MY Web Page</title>   
- </head> 
- <body>
+       <link rel="stylesheet" href="チームワーク２.css">
+       <script src="チームワーク３.js" defer></script>
+
     <h1>情報コースのアピールポイント</h1>
     
     <h2>情報コースの定員が多い点</h2>
@@ -16,4 +17,3 @@
     <p>AIやIoT、情報セキュリティといった幅広い情報分野について学びつつ、デザイン思考やリスクマネジメント、インフォマティクスを重視している。それによって技術力だけでなく、課題解決能力をも身に着けた情報技術者を育成しようとしているところが魅力である。</p>
  </body>  
 </html>
-
